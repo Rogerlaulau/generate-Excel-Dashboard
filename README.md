@@ -7,3 +7,5 @@ Using xlwings to generate Dashboard in Microsoft Excel
 - pandas
 
 ![](https://github.com/Rogerlaulau/generate-Excel-Dashboard/blob/main/excel%20result.png)
+
+![](https://github.com/Rogerlaulau/generate-Excel-Dashboard/blob/main/excel%20sales%20details.png)
