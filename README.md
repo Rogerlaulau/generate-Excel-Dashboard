@@ -1,4 +1,7 @@
-# xlwings_report
+# Sales Dashboard
+(Python, xlwings, matplotlib, pandas). 
+Automated statistical calculation of sales dataset with over 2,000 observations and outputted dashboards to Excel report for evaluating sales amount in terms of salesperson, items and months.  
+
 
 Using xlwings to generate Dashboard in Microsoft Excel
 - table
